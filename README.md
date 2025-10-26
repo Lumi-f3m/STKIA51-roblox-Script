@@ -1,2 +1,2 @@
 # STKIA51-roblox-Script
-Made by me free to use :3
+Experimental Auto kill farm at the bottom
